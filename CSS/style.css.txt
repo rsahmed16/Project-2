@@ -24,16 +24,29 @@ body {
     text-decoration: none;
   }
   
-  h1 {
-    font-family: "Dancing Script";
-    font-size: 80px;
-    color: aqua;
-    text-align: center;
-
-  li a:hover:not(.active) {
-    background-color: #111;
-  }
-
+.header {
+font-family: "Arial Red", sans-serif;
+  font-size: 4.5em;
+  letter-spacing: -1px;
+  background-color: black;
+  color: white;
+}
+  section h1 {
+    background-color: #25f00e;
+    color: #afedeb;
+}
+section h2 {
+    background-color: #000000;
+    color: #edafec;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+section h3 {
+    background-color: #ebf707;
+    color: #edd391;
+}
   .active {
     background-color: #04AA6D;
   }
