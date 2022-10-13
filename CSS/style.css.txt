@@ -4,39 +4,40 @@ body {
     font-size: 2em;
     font-weight: 600;
 }
-  ul {
+header nav ul
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #333;
-  }
-
-  li {
+}
+header nv ul li {
     float: left;
      border-right:1px solid #bbb;
- }
+}
 
-  li:last-child {
+header li:last-child {
     border-right: none;
   }
 
-  li a {
+header li a {
     display: block;
     color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
   }
-  
+
 .header {
 font-family: "Arial Red", sans-serif;
   font-size: 4.5em;
   letter-spacing: -1px;
   background-color: black;
   color: white;
+  width: 100%;
 }
-  section h1 {
+
+section h1 {
     background-color: #25f00e;
     color: #afedeb;
 }
@@ -52,7 +53,13 @@ section h3 {
     background-color: #ebf707;
     color: #edd391;
 }
-  .active {
-    background-color: #04AA6D;
-  }
+body {
+    font-family: Open Sans;
+    background-color: #daf0e3
+    font-size: 2em;
+    font-weight: 600;
+}
+h1,h2,h3 {
+    font-weight: bold;
+    padding-bottom: 2px;
 }
