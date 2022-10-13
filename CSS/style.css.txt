@@ -23,6 +23,12 @@ body {
     padding: 14px 16px;
     text-decoration: none;
   }
+  
+  h1 {
+    font-family: "Dancing Script";
+    font-size: 80px;
+    color: aqua;
+    text-align: center;
 
   li a:hover:not(.active) {
     background-color: #111;
