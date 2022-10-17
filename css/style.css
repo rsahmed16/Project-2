@@ -16,11 +16,11 @@ section p {
     float: none!important;
 }
 section h1 {
-    background-color: #7F00FF;
+    background-color: #473155;
     color: #000000;
 }
 section h2 {
-    background-color: #00FFFF;
+    background-color: #ab4b86;
     font-size: 2em;
     color: #000000;
     border-top-left-radius: 30px;
@@ -29,7 +29,7 @@ section h2 {
     border-bottom-left-radius: 30px;
 }
 section h3 {
-    background-color: #98FB98;
+    background-color: #dfb5d2;
     color: #000000;
 }
 /* House styles below */
