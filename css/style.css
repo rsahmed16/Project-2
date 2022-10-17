@@ -16,6 +16,7 @@ section p {
     float: none!important;
 }
 section h1 {
+   text-align: center;
     background-color: #473155;
     color: #000000;
 }
