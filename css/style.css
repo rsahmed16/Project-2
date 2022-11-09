@@ -59,6 +59,7 @@ header nav ul{
     display: block;
     margin: 0 auto;
     width: max-content;
+    text-decoration: none;
 }
 header nav ul li{
   margin-bottom: 5px;
