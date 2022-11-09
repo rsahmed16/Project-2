@@ -61,7 +61,7 @@ header nav ul li{
   margin-bottom: 5px;
   color: #b25092;
   width: max-content;
-  text-decoration: underline;
+  text-decoration: none;
 }
 header nav ul li:nth-child(1){
   float: left;
